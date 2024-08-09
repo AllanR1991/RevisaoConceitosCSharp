@@ -1,0 +1,14 @@
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\bin\Debug\net8.0\WhileRepeticao.exe
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\bin\Debug\net8.0\WhileRepeticao.deps.json
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\bin\Debug\net8.0\WhileRepeticao.runtimeconfig.json
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\bin\Debug\net8.0\WhileRepeticao.dll
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\bin\Debug\net8.0\WhileRepeticao.pdb
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\obj\Debug\net8.0\WhileRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\obj\Debug\net8.0\WhileRepeticao.AssemblyInfoInputs.cache
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\obj\Debug\net8.0\WhileRepeticao.AssemblyInfo.cs
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\obj\Debug\net8.0\WhileRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\obj\Debug\net8.0\WhileRepeticao.dll
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\obj\Debug\net8.0\refint\WhileRepeticao.dll
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\obj\Debug\net8.0\WhileRepeticao.pdb
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\obj\Debug\net8.0\WhileRepeticao.genruntimeconfig.cache
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\WhileRepeticao\obj\Debug\net8.0\ref\WhileRepeticao.dll

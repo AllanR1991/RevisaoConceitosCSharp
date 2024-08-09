@@ -1,0 +1,14 @@
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\obj\Debug\net8.0\LaçoRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\obj\Debug\net8.0\LaçoRepeticao.AssemblyInfoInputs.cache
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\obj\Debug\net8.0\LaçoRepeticao.AssemblyInfo.cs
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\obj\Debug\net8.0\LaçoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\bin\Debug\net8.0\LaçoRepeticao.exe
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\bin\Debug\net8.0\LaçoRepeticao.deps.json
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\bin\Debug\net8.0\LaçoRepeticao.runtimeconfig.json
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\bin\Debug\net8.0\LaçoRepeticao.dll
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\bin\Debug\net8.0\LaçoRepeticao.pdb
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\obj\Debug\net8.0\LaçoRepeticao.dll
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\obj\Debug\net8.0\refint\LaçoRepeticao.dll
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\obj\Debug\net8.0\LaçoRepeticao.pdb
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\obj\Debug\net8.0\LaçoRepeticao.genruntimeconfig.cache
+C:\Users\41017653836\Desktop\RevisaoConceitosCSharp\LaçoRepeticao\obj\Debug\net8.0\ref\LaçoRepeticao.dll

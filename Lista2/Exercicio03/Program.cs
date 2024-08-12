@@ -1,13 +1,11 @@
-﻿int[] numeros = {1,2,4,5,6,7,8,9,10};
+﻿int[] numeros = [1,2,3,4,5,6,7,8,9,10];
 int soma = 0;
-for (int i = 0; i < numeros.Length; i++)
-{
-    int numero = numeros[i];
-    bool ehNumeroPar = numero % 2 == 0;
-    if(ehNumeroPar)
+
+foreach(int numero in numeros){
+    if(numero % 2 == 0)
     {
         soma += numero;
-        Console.WriteLine(soma);
     }
 }
 
+Console.WriteLine($"O valor total da soma dos pares é : {soma} ");

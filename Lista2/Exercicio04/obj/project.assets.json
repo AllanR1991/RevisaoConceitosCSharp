@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\allan\\Desktop\\AvaliacaoPraticaLogicaProgramacao\\Exercicio04\\Exercicio04.csproj",
+      "projectUniqueName": "C:\\Users\\allan\\Desktop\\RevisaoConceitosCSharp\\Lista2\\Exercicio04\\Exercicio04.csproj",
       "projectName": "Exercicio04",
-      "projectPath": "C:\\Users\\allan\\Desktop\\AvaliacaoPraticaLogicaProgramacao\\Exercicio04\\Exercicio04.csproj",
+      "projectPath": "C:\\Users\\allan\\Desktop\\RevisaoConceitosCSharp\\Lista2\\Exercicio04\\Exercicio04.csproj",
       "packagesPath": "C:\\Users\\allan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\allan\\Desktop\\AvaliacaoPraticaLogicaProgramacao\\Exercicio04\\obj\\",
+      "outputPath": "C:\\Users\\allan\\Desktop\\RevisaoConceitosCSharp\\Lista2\\Exercicio04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\allan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allan\\Desktop\\AvaliacaoPraticaLogicaProgramacao\\Exercicio01\\Exercicio01.csproj": {}
+    "C:\\Users\\allan\\Desktop\\RevisaoConceitosCSharp\\Lista2\\Exercicio01\\Exercicio01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allan\\Desktop\\AvaliacaoPraticaLogicaProgramacao\\Exercicio01\\Exercicio01.csproj": {
+    "C:\\Users\\allan\\Desktop\\RevisaoConceitosCSharp\\Lista2\\Exercicio01\\Exercicio01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allan\\Desktop\\AvaliacaoPraticaLogicaProgramacao\\Exercicio01\\Exercicio01.csproj",
+        "projectUniqueName": "C:\\Users\\allan\\Desktop\\RevisaoConceitosCSharp\\Lista2\\Exercicio01\\Exercicio01.csproj",
         "projectName": "Exercicio01",
-        "projectPath": "C:\\Users\\allan\\Desktop\\AvaliacaoPraticaLogicaProgramacao\\Exercicio01\\Exercicio01.csproj",
+        "projectPath": "C:\\Users\\allan\\Desktop\\RevisaoConceitosCSharp\\Lista2\\Exercicio01\\Exercicio01.csproj",
         "packagesPath": "C:\\Users\\allan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allan\\Desktop\\AvaliacaoPraticaLogicaProgramacao\\Exercicio01\\obj\\",
+        "outputPath": "C:\\Users\\allan\\Desktop\\RevisaoConceitosCSharp\\Lista2\\Exercicio01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allan\\AppData\\Roaming\\NuGet\\NuGet.Config",

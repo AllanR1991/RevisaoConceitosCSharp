@@ -1,11 +1,13 @@
-﻿string? texto;
-int count = 0;
+﻿//Crie um programa que peça ao usuário para digitar um texto e conte quantas vezes cada letra do alfabeto aparece no texto.
+
+string? texto;
+int i=0;
 
 // Inserção de dados.
 do
 {
     Console.WriteLine("Digite um texto: ");
-    texto = Console.ReadLine();
+    texto = Console.ReadLine()?.ToLower();
     if(string.IsNullOrEmpty(texto))
     {
         Console.WriteLine("Nada foi digitado. Tente novamente.");
@@ -13,13 +15,24 @@ do
 }while(string.IsNullOrEmpty(texto));
 
 // Contagem de letras do alfabético.
-foreach(char letra in texto)
-{
+while( i < texto.Length )
+{   
+    Char letra = texto[i];
+
     if(char.IsLetter(letra))
+    {        
+        int count = 0;
+        
+        while(texto.IndexOf(letra) != -1)
+        {            
+            texto = texto.Remove(texto.IndexOf(letra),1);
+            count++;            
+        }     
+       
+        Console.WriteLine($"A letra {letra} aparece {count} veze(s)");
+    }
+    else
     {
-        count++;
+        texto = texto.Remove(texto.IndexOf(letra),1);
     }
 }
-
-// Exibição da contagem total de letras do alfabeto.
-Console.WriteLine($"O total de letras do alfabeto contido no texto é : {count}");

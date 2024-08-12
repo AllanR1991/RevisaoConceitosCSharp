@@ -15,7 +15,7 @@ do
 }while(string.IsNullOrEmpty(texto));
 
 // Contagem de letras do alfabético.
-while( i < texto.Length )
+while( texto.Length > i)
 {   
     Char letra = texto[i];
 
